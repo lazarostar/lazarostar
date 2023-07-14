@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**lazarostar/lazarostar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=lazarostar)   <br />
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+    <img src="https://github-profile-trophy.vercel.app/?username=lazarostar&column=5&theme=onedark" width="100%" />
+</div>
 
-Here are some ideas to get you started:
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=lazarostar&show_icons=true&theme=blueberry&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lazarostar&theme=blueberry&hide_border=true" />
+</p>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+</p>
